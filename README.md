@@ -1,11 +1,5 @@
 # Welcome to my Github!
 
-### [MY RESOURCES FOR LINUX, CLOUD, AND CYBERSECURITY](https://github.com/DavidMBusey/linux-cloud-security-resources/wiki)
-### Projects
-- [MY WIKI](https://github.com/DavidMBusey/linux-cloud-security-resources/wiki)
-- [MY PERSONAL VPN (WIP)](https://github.com/DavidMBusey/Busey-VPN-Client)
-- [MY PERSONAL SITE (Not started)](https://github.com/DavidMBusey/busey-domain)
-
 
 <!--
 **DavidMBusey/DavidMBusey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
