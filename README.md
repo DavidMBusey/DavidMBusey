@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub!
-
 
 ---
 
@@ -9,10 +7,9 @@
 
 ---
 
-### 📈 Stats
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidmbusey&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmbusey&layout=compact&theme=radical)
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/davidmbusey)
+- ✉️ [Email Me](mailto:contact@cyberempire.net)
 
 ---
 
@@ -22,7 +19,6 @@
 - **Frameworks:** Django, Spring Boot
 - **Other Expertise:** System Design, API Development, Cloud Architecture
 - Things I want to learn: Terraform, CloudFormation, Ansible, Kuberentes, Machine Learning.
-
 
 ---
 
@@ -34,7 +30,7 @@
 
 ---
 
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/davidmbusey)
-- ✉️ [Email Me](mailto:contact@cyberempire.net)
+### 📈 Stats
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidmbusey&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmbusey&layout=compact&theme=radical)
