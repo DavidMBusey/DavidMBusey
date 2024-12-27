@@ -3,8 +3,6 @@
 
 ### 🌟 Featured Projects
 - **🤖[Web - Proxy Scraper](https://github.com/DavidMBusey/ProxyScraper):** A fully automated HTTP(S) and SOCKS proxy scraper. Validates endpoints and anonymity level.
-- **📜[Game - Valor634](https://github.com/RuneWardens/valor634-server):** Rediscover 2011 RuneScape with modern server emulation at your fingertips.
-
 ---
 
 ### 📫 Let's Connect
