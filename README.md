@@ -3,9 +3,9 @@
 ### 🏆 Profiles & Badges
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davidmbusey)
 [![Credly](https://img.shields.io/badge/Credly-Certs-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/david-busey.6b833ab3)
-[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-Profile-brightgreen?style=for-the-badge&logo=roadmapdotsh)](https://roadmap.sh/davidmbusey)
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-Profile-brightgreen?style=for-the-badge&logo=roadmapdotsh)](https://roadmap.sh/u/davidmbusey)
 [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-red?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/DavidMBusey)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/97807)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/978007)
 
 
 --- 
