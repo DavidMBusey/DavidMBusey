@@ -1,6 +1,6 @@
 # About
 
-### 🏆 Profiles & Badges
+# 🏆 Profiles & Badges
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/davidmbusey)
 [![Credly](https://img.shields.io/badge/Credly-Certs-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/david-busey.6b833ab3)
 
@@ -11,8 +11,16 @@
 
 --- 
 
-## 🌟 Featured Projects
-1. Coming soon
+# 🌟 Featured Projects
+1. Coming Soon! See below for some information.
+2. [DevSecOps (Security+ Resources)](https://github.com/DavidMBusey/devsecops)
+
+---
+
+
+---
+
+
 
 ---
 
