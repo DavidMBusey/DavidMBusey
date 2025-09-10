@@ -8,19 +8,11 @@
 [![CodeWars](https://img.shields.io/badge/CodeWars-Profile-red?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/DavidMBusey)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/978007)
 
-
 --- 
 
 # 🌟 Featured Projects
-1. Coming Soon! See below for some information.
+1. Coming Soon (doing some housekeeping)!
 2. [DevSecOps (Security+ Resources)](https://github.com/DavidMBusey/devsecops)
-
----
-
-
----
-
-
 
 ---
 
@@ -28,9 +20,3 @@
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidmbusey&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmbusey&layout=compact&theme=radical)
-
-[![Roadmap.sh](https://roadmap.sh/card/wide/68b705f22e3a362c22eb4e07?variant=dark)](https://roadmap.sh/u/davidmbusey)
-
-[![HackTheBox](https://www.hackthebox.eu/badge/image/978007)](https://referral.hackthebox.com/mzGDp2U) 
-
-[![CodeWars](https://www.codewars.com/users/DavidMBusey/badges/large)](https://www.codewars.com/r/GbGWjQ)  
